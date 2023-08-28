@@ -36,12 +36,12 @@
     align-items: center;
 }
 
-
+.l{
+    justify-content: left;
+    position: absolute;
+}
 
 .middle{
-    width: 200px;
-    height: 200px;
-    color: white;
     display: flex;
-    background:linear-gradient(to top right, blue, cyan);
+
 }
